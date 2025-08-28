@@ -1,0 +1,6 @@
+| Use Case               | Return Type | Example                    |
+| ---------------------- | ----------- | -------------------------- |
+| No return value        | `void`      | `void Display();`          |
+| Returns integer        | `int`       | `int Sum();`               |
+| Returns true/false     | `bool`      | `bool Search(int key);`    |
+| Returns a node pointer | `Node*`     | `Node* FindNode(int key);` |
